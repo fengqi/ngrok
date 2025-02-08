@@ -3,7 +3,7 @@ package client
 import (
 	"flag"
 	"fmt"
-	"ngrok/version"
+	"ngrok/src/ngrok/version"
 	"os"
 )
 

@@ -4,11 +4,11 @@ package web
 import (
 	"github.com/gorilla/websocket"
 	"net/http"
-	"ngrok/client/assets"
-	"ngrok/client/mvc"
-	"ngrok/log"
-	"ngrok/proto"
-	"ngrok/util"
+	"ngrok/assets"
+	"ngrok/src/ngrok/client/mvc"
+	"ngrok/src/ngrok/log"
+	"ngrok/src/ngrok/proto"
+	"ngrok/src/ngrok/util"
 	"path"
 )
 

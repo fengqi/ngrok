@@ -6,7 +6,7 @@ import (
 	"crypto/x509"
 	"encoding/pem"
 	"fmt"
-	"ngrok/client/assets"
+	"ngrok/assets"
 )
 
 func LoadTLSConfig(rootCertPaths []string) (*tls.Config, error) {

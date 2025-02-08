@@ -4,8 +4,8 @@ import (
 	"encoding/gob"
 	"fmt"
 	"net"
-	"ngrok/cache"
-	"ngrok/log"
+	"ngrok/src/ngrok/cache"
+	"ngrok/src/ngrok/log"
 	"sync"
 	"time"
 )

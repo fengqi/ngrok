@@ -2,7 +2,7 @@ package mvc
 
 import (
 	metrics "github.com/rcrowley/go-metrics"
-	"ngrok/proto"
+	"ngrok/src/ngrok/proto"
 )
 
 type UpdateStatus int
